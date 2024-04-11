@@ -1,9 +1,11 @@
 #include "main.h"
 
+/* betty style doc for function main goes there */
 /**
-* main - tests function that prints if integer is positive or negative
-* Return: 0
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
+ */
 
 int main(void)
 {
@@ -14,3 +16,4 @@ int main(void)
 
         return (0);
 }
+
