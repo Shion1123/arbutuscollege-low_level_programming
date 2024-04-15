@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
-/**
- * main - Entry point
- *
- * Return: Always 0 (success)
- */
 /**
 * main - causes an infinite loop
 * Return: 0
